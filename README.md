@@ -11,7 +11,7 @@ Tout et n'importe quoi sur la physique
 [Lien3](url)
 
 ### Physique quantique
-[<b>La plus belle expérience de la physique - Science étonnante</b>](https://www.youtube.com/watch?v=hmsbOZJKOV0)<br>
+[<b>La plus belle expérience de la physique - Science étonnante</b>](https://www.youtube.com/watch?v=zPolTp0ddRg&t=74s)<br>
 Description : Explication de l'expérience des fentes de Young<br>
 Type : Vidéo<br>
 Durée : 15 min<br>
